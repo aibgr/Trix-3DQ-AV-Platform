@@ -12,5 +12,6 @@ A. Bagheri - IUST - 2025
 AliBagheri79.ab@gmail.com
 
 <img width="1682" height="683" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/e302219c-2ff0-46a6-abd4-5eb52be8848e" />
-![01623380619](https://github.com/user-attachments/assets/60163040-085d-4df2-a6b0-2d467ccbe824) ![zhang4-3017770-small](https://github.com/user-attachments/assets/d8e0110e-f6e9-4716-aa7c-f768117ed5f5)
+![01623380619](https://github.com/user-attachments/assets/60163040-085d-4df2-a6b0-2d467ccbe824)
+![zhang4-3017770-small](https://github.com/user-attachments/assets/d8e0110e-f6e9-4716-aa7c-f768117ed5f5)
 
