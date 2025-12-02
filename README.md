@@ -1,7 +1,7 @@
 # 3DQ-Park
 Presenting a novel Reinforcement Learning method on a proposed Unifying Equation (Just one Kinematic Equation for Parking (Parallel (both side of street), Vertical, and Oblique) + Overtaking)
 
-This part of project as first submitted article to IEEE T-IV only showcases its capability for both-side parking with 3D Fully Mechanical Simulation with Webots!
+This part of project as first submitted article to IEEE T-IV only showcases its capability for both-side parking with 3D Fully Mechanical Simulation in Webots!
 
 All the source code will be public after journal publication of 3DQ Series.
 
