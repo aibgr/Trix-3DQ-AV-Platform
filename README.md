@@ -3,7 +3,7 @@ Presenting a novel Reinforcement Learning method on a proposed Unifying Equation
 
 This project only showcase its capability for both-side parking with 3D Fully Mechanical Simulation with Webots!
 
-All the source code will be piblic after journal publication of 3DQ Series.
+All the source code will be public after journal publication of 3DQ Series.
 
 Cheers!
 
