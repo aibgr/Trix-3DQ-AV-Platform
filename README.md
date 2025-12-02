@@ -1,6 +1,8 @@
 # 3DQ-Park
 Presenting a novel learning method on a proposed unifying equation (Just one Kinematic Equation for Parking (Parallel (both side of street), Vertical, Oblique) + Overtaking)
+
 This project only shocase its capability for both-side parking
+
 All the source code will be piblic after journal publication of 3DQ Series.
 
 Cheers!
