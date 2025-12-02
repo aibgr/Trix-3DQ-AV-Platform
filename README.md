@@ -8,7 +8,7 @@ One single equation → Parallel parking (both sides), perpendicular, angled, an
 
 > First paper of the **3DQ Series** submitted to **IEEE Transactions on Intelligent Vehicles** – November 2025  
 > First-round decision expected: December 2025 – January 2026  
-> Full source code will be released immediately upon acceptance.
+> Full source code will be released immediately upon acceptance of all 3DQ Series.
 
 ### Key Features
 - Single kinematic formulation covering **all** parking maneuvers + overtaking  
