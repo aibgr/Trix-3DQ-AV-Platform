@@ -10,7 +10,7 @@ One single equation → Parallel parking (both sides), perpendicular, angled, an
 > First-round decision expected: December 2025 – January 2026  
 > Full source code will be released immediately upon acceptance of all 3DQ Series.
 
-### Key Features (At First, Please review the Repository *.mp4 videos)
+### Key Features (At First, Please Consider watching Repository *.mp4 videos)
 - Single kinematic formulation covering **all** parking maneuvers + overtaking  
 - Guided 3D Q-Learning with hierarchical 8-cube exhaustive search  
 - Average convergence in under 40 episodes  
