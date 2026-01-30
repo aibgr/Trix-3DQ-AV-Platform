@@ -14,7 +14,7 @@ One single equation → Parking (Parallel (both sides), perpendicular, angled) a
 > First-round decision expected: early 2026
 > Full source code will be released immediately upon acceptance of all 3DQ Series (Trix).
 
-### Key Features (At First, Please Consider Watching Repository *.mp4 videos)
+### Key Features
 - Single kinematic formulation covering **all** parking maneuvers + overtaking
 - Guided 3D Q-Learning with hierarchical 8-cube exhaustive search
 - Average convergence in under 40 episodes
