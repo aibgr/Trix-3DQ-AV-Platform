@@ -22,17 +22,45 @@ One single equation →  Parking (Parallel (both sides), perpendicular, angled) 
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/e302219c-2ff0-46a6-abd4-5eb52be8848e" alt="Training convergence & α-space exploration"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/54cb8169-4038-44db-b170-c880763b6fad" alt="Left-side parallel parking"></td>
+    <td align="center">
+      <video width="400" controls>
+        <source src="https://github.com/aibgr/Trix-3DQ-AV-Platform/blob/main/Test_Parking_3DQ_Bagheri.mp4?raw=true" type="video/mp4">
+      </video>
+      <br><em>Training convergence & α-space exploration</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/54cb8169-4038-44db-b170-c880763b6fad" alt="Left-side parallel parking">
+      <br><em>Left-side parallel parking</em>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/f2fa273d-29b5-4580-bc75-e5dee4ebf25b" alt="Right-side parallel parking"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/bbdb739e-1bce-4d0a-a72b-338ebad27f05" alt="Complete parking sequence"></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f2fa273d-29b5-4580-bc75-e5dee4ebf25b" alt="Right-side parallel parking">
+      <br><em>Right-side parallel parking</em>
+    </td>
+    <td align="center">
+      <video width="400" controls>
+        <source src="https://github.com/aibgr/Trix-3DQ-AV-Platform/blob/main/Test_Parking_3DQ_Bagheri.mp4?raw=true" type="video/mp4">
+      </video>
+      <br><em>Complete parking sequence</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video width="400" controls>
+        <source src="https://github.com/aibgr/Trix-3DQ-AV-Platform/blob/main/Test_Parking_3DQ_Bagheri.mp4?raw=true" type="video/mp4">
+      </video>
+      <br><em>Perpendicular parking demo</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e302219c-2ff0-46a6-abd4-5eb52be8848e" alt="Angled parking">
+      <br><em>Angled parking trajectory</em>
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <em>*</em>
+  <em>* Three videos showcase real-time 3DQ parking from different angles</em>
 </p>
 
 ### Coming Soon
@@ -43,7 +71,7 @@ One single equation →  Parking (Parallel (both sides), perpendicular, angled) 
 ### Author
 **Ali Bagheri**  
 B.Sc. Mechanical Engineering & Computer Engineering – Iran University of Science and Technology, 2025  
-Email: AliBagheri79.ab@gmail.com | GitHub: [@aibgr](https://github.com/aibgr)  
+Email: [AliBagheri79.ab@gmail.com](mailto:AliBagheri79.ab@gmail.com) | GitHub: [@aibgr](https://github.com/aibgr)  
 LinkedIn: [Ali-Bagheri](https://www.linkedin.com/in/aibgr)  
 
 **Supervisor:** Dr. Hassan Zabihi – Iran University of Science and Technology
