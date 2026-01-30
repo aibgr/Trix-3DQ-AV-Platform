@@ -1,5 +1,5 @@
-# 3DQ-Park
-**A Unified Kinematic Model + Guided 3D Q-Learning Framework**
+# 3DQ (Trix)
+**A Unified Kinematic Model + Explainable 3D Q-Learning Framework**
 One single equation → Parking (Parallel (both sides), perpendicular, angled) as well as overtaking
 
 
@@ -10,8 +10,8 @@ One single equation → Parking (Parallel (both sides), perpendicular, angled) a
 
 
 > First paper of the **3DQ Series** submitted to **IEEE Transactions on Intelligent Vehicles** – 2025
-> First-round decision expected: December 2025 – January 2026
-> Full source code will be released immediately upon acceptance of all 3DQ Series.
+> First-round decision expected: early 2026
+> Full source code will be released immediately upon acceptance of all 3DQ Series (Trix).
 
 ### Key Features (At First, Please Consider Watching Repository *.mp4 videos)
 - Single kinematic formulation covering **all** parking maneuvers + overtaking
@@ -38,23 +38,15 @@ One single equation → Parking (Parallel (both sides), perpendicular, angled) a
 
 
 https://github.com/user-attachments/assets/610a60ad-527d-4daf-865d-39a4d2f36edf
-
-
 https://github.com/user-attachments/assets/25ec0aac-48a1-42eb-9e0a-8f37fcaa3551
-
-
-
 https://github.com/user-attachments/assets/9cf9c246-719c-4560-ac8a-8685ff81ec42
-
-
-
 
 <em>* Three videos showcase real-time 3DQ parking from different angles
 </em>
 </p>
 
 ### Coming Soon
-- 3DQ-Overtaking (manuscript in preparation)
+- 3DQ-Overtaking (manuscript in preparation as well as Trix as a compelete work)
 - Real-world deployment on full-scale autonomous vehicle (LiDAR + camera + ultrasonics)
 - ROS 2 + NVIDIA Jetson implementation
 
