@@ -58,10 +58,10 @@ https://github.com/user-attachments/assets/9cf9c246-719c-4560-ac8a-8685ff81ec42
 - ROS 2 + NVIDIA Jetson implementation
 
 ### Author
-**Ali Bagheri**
+**A. Bagheri**
 B.Sc. Mechanical Engineering & Computer Engineering – Iran University of Science and Technology, 2025
 Email: AliBagheri79.ab@gmail.com | GitHub: @aibgr
-LinkedIn: Ali-Bagheri
+LinkedIn: @aibgr
 
 **Supervisor:** Dr. Hassan Zabihi – Iran University of Science and Technology
 
