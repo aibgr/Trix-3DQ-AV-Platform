@@ -59,12 +59,12 @@ https://github.com/user-attachments/assets/9cf9c246-719c-4560-ac8a-8685ff81ec42
 
 ### Author
 **A. Bagheri**
-B.Sc. Mechanical Engineering & Computer Engineering – Iran University of Science and Technology, 2025
+B.Sc. Mechanical Engineering & Computer Engineering – Iran University of Science and Technology, 2026 | 
 GitHub: @aibgr | LinkedIn: @aibgr
 
 **Supervisor:** Dr. Hassan Zabihi – Iran University of Science and Technology
 
 If you find this work useful, please give it a ⭐
-Full source code will be made public immediately after publication of the 3DQ series.
+Full source code will be made public immediately after publication of the 3DQ(Trix) series.
 
 **More exciting updates coming very soon!**
