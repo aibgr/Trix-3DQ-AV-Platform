@@ -2,7 +2,7 @@
 **A Unified Kinematic Model + Explainable 3D Q-Learning Framework**
 
 One single equation → Parking (Parallel (both sides), perpendicular, angled) as well as overtaking
-
+![Project Logo](./logo.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/aibgr/3DQ-Park?style=social)](https://github.com/aibgr/3DQ-Park/stargazers)
 [![IEEE T-IV](https://img.shields.io/badge/IEEE%20T--IV-Submitted%20Nov%202025-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
