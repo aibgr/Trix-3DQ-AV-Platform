@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/9cf9c246-719c-4560-ac8a-8685ff81ec42
 </p>
 
 ### Coming Soon
-- 3DQ-Overtaking (manuscript in preparation as well as Trix as a compelete work)
+- 3DQ-Overtaking (manuscript in preparation as well as Trix as a compelete work package)
 - Real-world deployment on full-scale autonomous vehicle (LiDAR + camera + ultrasonics)
 - ROS 2 + NVIDIA Jetson implementation
 
