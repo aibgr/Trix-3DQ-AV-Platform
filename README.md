@@ -1,4 +1,4 @@
-# 3DQ (Trix)
+# Trix-AV
 **A Unified Kinematic Model + Explainable 3D Q-Learning Framework**
 
 One single equation → Parking (Parallel (both sides), perpendicular, angled) as well as overtaking
@@ -11,7 +11,7 @@ One single equation → Parking (Parallel (both sides), perpendicular, angled) a
 
 > First paper of the **Trix Series** in preparation for **IEEE Transactions on Intelligent Vehicles** – 2026
 > First-round decision expected: early 2026
-> Full source code will be released immediately upon acceptance of all 3DQ Series (Trix).
+> Full source code will be released immediately upon acceptance of all Trix Series.
 
 ### Key Features
 - Single kinematic formulation covering **all** parking maneuvers + overtaking
@@ -47,12 +47,12 @@ https://github.com/user-attachments/assets/9cf9c246-719c-4560-ac8a-8685ff81ec42
 
 
 
-<em>* Three videos showcase real-time 3DQ (Trix) Capability
+<em>* Three videos showcase real-time Trix Capability
 </em>
 </p>
 
 ### Coming Soon
-- 3DQ-Overtaking (manuscript in preparation as well as Trix as a compelete work package)
+- Trix-Overtaking (manuscript in preparation as well as Trix as a compelete work package)
 - Real-world deployment on full-scale autonomous vehicle (LiDAR + camera + ultrasonics)
 - ROS 2 + NVIDIA Jetson implementation
 
@@ -65,6 +65,6 @@ GitHub: @aibgr | LinkedIn: @aibgr
 **Supervisor:** Dr. Seyed Hassan Zabihifar – Iran University of Science and Technology
 
 If you find this work useful, please give it a ⭐
-Full source code will be made public immediately after publication of the 3DQ(Trix) series.
+Full source code will be made public immediately after publication of the Trix series.
 
 **More exciting updates coming very soon!**
