@@ -9,7 +9,7 @@ One single equation → Parking (Parallel (both sides), perpendicular, angled) a
 
 
 
-> First paper of the **3DQ Series** submitted to **IEEE Transactions on Intelligent Vehicles** – 2026
+> First paper of the **Trix Series** in preparation for **IEEE Transactions on Intelligent Vehicles** – 2026
 > First-round decision expected: early 2026
 > Full source code will be released immediately upon acceptance of all 3DQ Series (Trix).
 
@@ -62,7 +62,7 @@ B.Sc. Mechanical Engineering & Computer Engineering – Iran University of Scien
 
 GitHub: @aibgr | LinkedIn: @aibgr
 
-**Supervisor:** Dr. Hassan Zabihi – Iran University of Science and Technology
+**Supervisor:** Dr. Seyed Hassan Zabihifar – Iran University of Science and Technology
 
 If you find this work useful, please give it a ⭐
 Full source code will be made public immediately after publication of the 3DQ(Trix) series.
