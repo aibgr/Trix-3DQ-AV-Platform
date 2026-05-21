@@ -21,6 +21,8 @@ One single equation → Parking (Parallel (both sides), perpendicular, angled) a
 - Full 3D mechanical simulation in Webots with accurate BMW i3 dynamics
 - Successfully parks on **both left and right sides** of the road
 
+Map parser → parking slot detection → α-space search → spatial path generation → Webots controller → trajectory validation
+
 ### Results (Webots R2023b)
 
 <table>
@@ -50,6 +52,13 @@ https://github.com/user-attachments/assets/9cf9c246-719c-4560-ac8a-8685ff81ec42
 <em>* Three videos showcase real-time Trix Capability
 </em>
 </p>
+
+## Project Status
+
+- `v1.0.0`: parking-only baseline documented and validated
+- `feature/overtaking`: under active development in the private code repository
+- Public repository currently contains documentation, media, and selected reproducible assets
+- Full research code will be released after publication or upon collaboration agreement
 
 ### Coming Soon
 - Trix-Overtaking (manuscript in preparation as well as Trix as a compelete work package)
