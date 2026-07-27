@@ -1,4 +1,4 @@
-# Trix-AV
+# Trix-AD
 **A Unified Kinematic Model + Explainable 3D Q-Learning Framework**
 
 One single equation → Parking (Parallel (both sides), perpendicular, angled) as well as overtaking
