@@ -5,7 +5,7 @@ One single equation → Parallel Parking as well as overtaking
 
 [![GitHub stars](https://img.shields.io/github/stars/aibgr/3DQ-Park?style=social)](https://github.com/aibgr/3DQ-Park/stargazers)
 [![IEEE T-IV](https://img.shields.io/badge/IEEE%20T--IV-Submitted%20%202026-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
-[![Webots 2023](https://img.shields.io/badge/Simulated-Webots%202023-orange)](https://cyberbotics.com)
+[![Webots 2025](https://img.shields.io/badge/Simulated-Webots%202023-orange)](https://cyberbotics.com)
 
 
 
